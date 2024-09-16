@@ -1,0 +1,4 @@
+//install json-server to use db.json which creates a local server
+
+// json-server {file path} - command to run the server
+// json-server db.json
